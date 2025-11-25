@@ -104,5 +104,5 @@ public void saveTasks() {
 ## Author:
 This project was developed by:
 
-* **SANJANA MALVIYA** 
-* REG NO. 24MIM10137
+* **Kirti yogi** 
+* REG NO. 24MIM10188
